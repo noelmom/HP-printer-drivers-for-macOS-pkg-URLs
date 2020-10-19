@@ -1,5 +1,5 @@
 # List of HP Printer drivers for macOS and respective download URLs
-Use your browsers search feature to locate the particular table with the respective download link.
+Use your browsers search feature to locate the particular table with the respective download link for your printer.
 The script I created to inspect the packages is also included and can be modified to export the data in just about any format.
 
 | ftp://ftp.hp.com/pub/softlib/software12/HP_Quick_Start/osx/Installations/Essentials/hp-printer-essentials-B-5_14_6.pkg |
